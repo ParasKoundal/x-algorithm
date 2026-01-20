@@ -1,0 +1,24 @@
+# Phoenix V2 Requirements
+# Python 3.9+
+
+# Core ML Framework
+jax>=0.4.20
+jaxlib>=0.4.20
+dm-haiku>=0.0.10
+
+# Data Processing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Evaluation
+scikit-learn>=1.3.0
+tqdm>=4.65.0
+
+# Optional: For visualization and analysis
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Development
+pytest>=7.4.0
+black>=23.0.0
+isort>=5.12.0
